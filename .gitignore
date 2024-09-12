@@ -1,0 +1,5 @@
+backend/venv
+backend/backend/backend/__pycache__
+backend/backend/listings/__pycache__
+backend/backend/users/__pycache__
+frontend/node_modules
